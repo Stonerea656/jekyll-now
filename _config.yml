@@ -9,7 +9,7 @@ name: Stonerea656
 description: Aspiring Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/20140915_thumbGS.jpg
 
 #
 # Flags below are optional
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: stonerea656
-  stackoverflow: users/3678088/stonerea656
+  stackoverflow: users/3678088/stonerea656?tab=profile
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
