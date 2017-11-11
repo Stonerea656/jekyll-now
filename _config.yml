@@ -23,11 +23,11 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/stonerea656/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: @stonerea656
+  stackoverflow: https://stackoverflow.com/users/3678088/stonerea656
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
