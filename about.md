@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Some information about me!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Ive a background as an Agricultural Scientist. Following a passion for Full Stack Web Development with a
+focus on mobile, web apps and PWA's.
 
 ### Contact me
 
