@@ -9,6 +9,6 @@ permalink: /about/
 Ive a background as an Agricultural Scientist. Following a passion for Full Stack Web Development with a
 focus on mobile, web apps and PWA's.
 
-### Contact me
+### Feel free to get in touch
 
-[email@domain.com](mailto:email@domain.com)
+Use one of these media below
