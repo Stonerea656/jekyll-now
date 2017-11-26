@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Some info about me!
+title: 
 permalink: /about/
 ---
 
-##
+## Some info about me!
 
-Ive a background as an Agricultural Scientist. Following a passion for Full Stack Web Development with a
-focus on mobile, web apps and PWA's.
+I'm 50+ 
+Ive a background as an Agricultural Scientist. 
+I've been learning code as a hobby for several years
+I'm following a passion for Full Stack Web Development 
+I intend to focus on mobile, web apps and PWA's.
 
-### Feel free to get in touch
+### Contact or follow me
 
 Use one of these media below
